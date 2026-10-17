@@ -1,0 +1,11 @@
+KRRISH — PUT YOUR PHOTO HERE
+============================
+
+1. Take a clear, front-facing photo (face well lit, plain background works best).
+2. Save it in THIS folder (public/images) with the exact name:  krrish.jpg
+3. Refresh the website — the intro particles will now form YOUR face.
+
+Supported: .jpg / .jpeg / .png  (a large photo ~500KB–2MB gives the best particles)
+
+Note: the intro and About section gracefully fall back (abstract particles /
+hidden image) until krrish.jpg exists — never someone else's face.
